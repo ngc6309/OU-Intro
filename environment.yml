@@ -4,6 +4,7 @@ channels:
 dependencies:
   - numpy
   - psutil
+  - astropy
   - toolz
   - matplotlib
   - pandas
