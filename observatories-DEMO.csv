@@ -1,0 +1,16 @@
+﻿# Some basic data from a sample set of observatories around the world,,,,
+,,,,
+Observatory,short,lat,long,altitude
+Australian Astronomical Observatory,AAO,-31.27556,149.067293,1164
+Mauna Kea,MAK,19.8228,-155.477,4092
+Green Bank Telescope,GBT,38.433056,-79.839722,101
+ARROW,ARROW,52.02444,-0.70639,115
+PIRATE,PIRATE,28.3,-16.509722,2390
+Armagh,AGH,54.3532,-6.65,100
+Arecibo,ARC,18.34417,-66.75278,497
+Apache Point,AP,32.780278,-105.820278,2788
+Effelsberg 100m Radio Telescope,ERT,50.5247,6.8828,319
+VLT,VLT,-24.62733,-70.40417,2635
+Atacama Large Millimetre Array,ALMA,-23.0193,-67.7532,5058
+Isaac Newton Group,ING,28.762056,-17.877639,2396
+Large Millimeter Telescope,LMT,18.985833,-97.314722,4640
