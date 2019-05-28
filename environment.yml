@@ -1,0 +1,11 @@
+name: OU-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - pandas
+  - partd
+  - bokeh
